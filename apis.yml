@@ -1,0 +1,96 @@
+aid: bright-horizons-family-solutions
+url: https://raw.githubusercontent.com/api-evangelist/bright-horizons-family-solutions/refs/heads/main/apis.yml
+name: Bright Horizons Family Solutions
+tags:
+  - Child Care
+  - Early Childhood Education
+  - Employee Benefits
+  - Back-Up Care
+  - Tuition Assistance
+  - Education Benefits
+  - Workforce Education
+  - Family Care
+  - Caregiver Marketplace
+  - Fortune 1000
+type: Index
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-05'
+modified: '2026-05-23'
+position: Consumer
+description: >-
+  Bright Horizons Family Solutions Inc. (NYSE: BFAM) is the largest provider of
+  employer-sponsored child care in the United States, headquartered in Newton,
+  Massachusetts and founded in 1986 by Linda Mason and Roger Brown. The company
+  operates more than 1,000 early-education and child-care centers across the US,
+  UK, Netherlands, and India, serving roughly 1,450 employer clients through three
+  core lines: Full Service Center-Based Child Care (on-site and near-site centers
+  for employer-sponsored families), Back-Up Care (last-minute child, adult/elder,
+  and pet care via in-home and in-center networks), and Educational Advisory
+  Services. The Educational Advisory segment is anchored by EdAssist by Bright
+  Horizons (tuition assistance, student loan repayment, and workforce education
+  administration covering 257 employer clients, 4.7 million eligible learners,
+  and more than $1 billion in education and loan payments administered annually),
+  College Coach (college admissions coaching delivered as an employee benefit),
+  and Sittercity (consumer caregiver marketplace acquired in 2020 and offered
+  through corporate benefits). Bright Horizons sells exclusively to enterprise
+  HR and benefits buyers — 72 of the Fortune 1000's top 100 companies use
+  EdAssist — and does not publish public APIs, SDKs, a developer portal, status
+  page, or a public GitHub organization. The brighthorizons GitHub org exists
+  but contains zero public repositories. This profile documents the corporate
+  structure, segment portfolio, and employer-benefit positioning of a child-care
+  and family-benefits operator that runs a closed B2B technology stack with no
+  third-party developer surface.
+apis: []
+common:
+  - type: Website
+    url: https://www.brighthorizons.com
+  - type: About
+    url: https://www.brighthorizons.com/about-us
+  - type: InvestorRelations
+    url: https://investors.brighthorizons.com
+  - type: Newsroom
+    url: https://www.brighthorizons.com/newsroom
+  - type: Careers
+    url: https://careers.brighthorizons.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bright-horizons-family-solutions
+  - type: GitHubOrganization
+    url: https://github.com/brighthorizons
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bright_Horizons
+segments:
+  - name: Full Service Center-Based Child Care
+    description: >-
+      Employer-sponsored on-site, near-site, and consortium child-care centers
+      delivering infant, toddler, preschool, and kindergarten-prep programs.
+      Operates more than 1,000 centers across the United States, United Kingdom,
+      the Netherlands, and India.
+    url: https://www.brighthorizons.com/our-solutions
+  - name: Back-Up Care
+    description: >-
+      On-demand backup care for children, adults/elders, and pets delivered
+      through a network of Bright Horizons centers, partner centers, and
+      in-home caregivers when an employee's regular care arrangement breaks
+      down. Sold as an employer-paid benefit with capped employee co-pays.
+    url: https://www.brighthorizons.com/back-up-care
+  - name: Educational Advisory Services
+    description: >-
+      Workforce education and family-support advisory services sold to
+      employers. Includes EdAssist (tuition assistance, student loan repayment,
+      Level Up Studio skills coaching), College Coach (college admissions
+      coaching), Workforce Consulting, and Care Advising for complex family
+      caregiving needs.
+    url: https://www.brighthorizons.com/edassist-solutions
+  - name: Sittercity
+    description: >-
+      Consumer caregiver marketplace (acquired 2020) connecting families with
+      babysitters, nannies, pet sitters, senior companions, and tutors.
+      Available in 96% of US neighborhoods with 140,000+ five-star reviews.
+      Offered to enterprise users as a Bright Horizons employee benefit.
+    url: https://www.sittercity.com
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+specificationVersion: '0.19'
