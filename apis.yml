@@ -44,6 +44,8 @@ description: >-
   third-party developer surface.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/bright-horizons-family-solutions-domain-security.yml
   - type: Website
     url: https://www.brighthorizons.com
   - type: About
@@ -60,6 +62,8 @@ common:
     url: https://github.com/brighthorizons
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Bright_Horizons
+  - url: https://www.brighthorizons.com/newsroom
+    type: Blog
 segments:
   - name: Full Service Center-Based Child Care
     description: >-
