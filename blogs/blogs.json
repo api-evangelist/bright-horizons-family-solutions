@@ -1,0 +1,14 @@
+{
+  "repo": "bright-horizons-family-solutions",
+  "feeds": [
+    {
+      "source": "https://www.brighthorizons.com/newsroom",
+      "feed_url": "https://www.brighthorizons.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 19
+}
