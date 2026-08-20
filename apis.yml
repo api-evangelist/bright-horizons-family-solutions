@@ -2,6 +2,17 @@ aid: bright-horizons-family-solutions
 url: https://raw.githubusercontent.com/api-evangelist/bright-horizons-family-solutions/refs/heads/main/apis.yml
 name: Bright Horizons Family Solutions
 tags:
+  - Childcare
+  - Early Childhood Education
+  - Employee Benefits
+  - Back-Up Care
+  - Tuition Assistance
+  - Education Benefits
+  - Workforce Education
+  - Family Care
+  - Caregiver Marketplace
+  - Fortune 1000
+tags_raw:
   - Child Care
   - Early Childhood Education
   - Employee Benefits
